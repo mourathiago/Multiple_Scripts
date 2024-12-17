@@ -1,6 +1,7 @@
+#!/bin/bash
+
 ## script em Shell para automatizar o web scraping de várias fontes e salvar os resultados nos formatos .txt, .csv e .html. 
 
-#!/bin/bash
 
 # --- Configurações ---
 URLS=(
